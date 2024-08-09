@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neversitup", "Neversitup\Neversitup.csproj", "{1EFE7E3B-5936-414D-8FC4-818412BB7D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeversitupTests", "NeversitupTests\NeversitupTests.csproj", "{03D7E385-07D9-4CF1-AD56-0BDB86F3A31E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EFE7E3B-5936-414D-8FC4-818412BB7D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFE7E3B-5936-414D-8FC4-818412BB7D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFE7E3B-5936-414D-8FC4-818412BB7D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFE7E3B-5936-414D-8FC4-818412BB7D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03D7E385-07D9-4CF1-AD56-0BDB86F3A31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D7E385-07D9-4CF1-AD56-0BDB86F3A31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D7E385-07D9-4CF1-AD56-0BDB86F3A31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D7E385-07D9-4CF1-AD56-0BDB86F3A31E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFC0DC82-5BA9-4B0A-939C-60E6A403843E}
+	EndGlobalSection
+EndGlobal
